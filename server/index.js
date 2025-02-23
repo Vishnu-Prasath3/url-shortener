@@ -381,4 +381,4 @@ app.get("/:shortURL", async function (request, response) {
   }
 });
 
-app.listen(process.env.PORT || 3007);
+app.listen(process.env.PORT || 10000);
